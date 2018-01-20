@@ -35,7 +35,7 @@
     },
     "versionFirst": "4.5.2",
     "uniqCompNum": 12,
-    "versionPublish": "4.5.2",
+    "versionPublish": "4.6.2",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "robotsSwitcher": "on",
     "siteUrl": "http://ethosmed.com/",
@@ -727,8 +727,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/gallery-login-page-1-800x603.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery-login-page-1-800x603-800x603.jpg",
+                "image": "@PROJECT_PATH@/assets/images/login-1163x750.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/login-1163x750-800x515.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Login",
@@ -780,7 +780,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Study Viewer",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -799,12 +799,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/gallery-report-page-900x573.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery-report-page-900x573-800x509.jpg",
+                "image": "@PROJECT_PATH@/assets/images/reporting-1094x940.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/reporting-1094x940-800x687.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Report Entry",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
