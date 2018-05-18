@@ -2179,9 +2179,21 @@ body {
 .cid-qCKDWoe9XF H2 {
   color: #ffffff;
 }
+.cid-qSpOwpGRnX {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-qSpOwpGRnX .mbr-iconfont-social {
+  font-size: 32px;
+  color: #972424;
+}
+.cid-qSpOwpGRnX .social-list a:focus {
+  text-decoration: none;
+}
 .cid-qCKDSIQcVZ {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-qCKDSIQcVZ .media-container-row .mbr-text {
