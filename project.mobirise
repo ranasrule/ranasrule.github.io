@@ -58,8 +58,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Ethosmed - PACS, Medical Record Automation, Telemedicine, 360 Patient Analytics",
-        "meta_descr": "",
+        "title": "Ethosmed - PACS & Teleradiology in Pakistan",
+        "meta_descr": "PACS & Teleradiology in Pakistan",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
