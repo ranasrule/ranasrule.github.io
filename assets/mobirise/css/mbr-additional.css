@@ -1832,9 +1832,9 @@ body {
   color: #ffffff;
 }
 .cid-r1PYc6QXhH {
-  padding-top: 60px;
+  padding-top: 30px;
   padding-bottom: 15px;
-  background-color: #ffffff;
+  background-color: #972424;
 }
 .cid-r1PYc6QXhH .carousel-item {
   justify-content: center;
@@ -1878,6 +1878,18 @@ body {
     width: 100%;
     height: auto;
   }
+}
+.cid-r1PYc6QXhH .user_desk {
+  color: #ffffff;
+}
+.cid-r1PYc6QXhH .user_name {
+  color: #ffffff;
+}
+.cid-r1PYc6QXhH .user_text {
+  color: #ffffff;
+}
+.cid-r1PYc6QXhH H2 {
+  color: #ffffff;
 }
 .cid-qCMoGEh2iY {
   padding-top: 90px;
