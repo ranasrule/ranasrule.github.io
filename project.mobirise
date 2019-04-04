@@ -58,8 +58,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Ethosmed - PACS & Teleradiology Solutions in Pakistan",
-        "meta_descr": "PACS & Teleradiology solutions in Pakistan and South America. EthosMED’ revolutionary workflow infrastructure has been designed and developed using the expertise of radiologists, technicians, and PACS administrators.",
+        "title": "Ethosmed - Pakistan, USA and South America.",
+        "meta_descr": "PACS & Teleradiology solutions in Pakistan, USA and South America. EthosMED’ revolutionary workflow infrastructure has been designed and developed using the expertise of radiologists, technicians, and PACS administrators.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1166,8 +1166,8 @@
     },
     "contact.html": {
       "settings": {
-        "title": "Contact Us - Ethosmed - PACS & Teleradiology Solutions in Pakistan",
-        "meta_descr": "PACS & Teleradiology solutions in Pakistan and South America. EthosMED’ revolutionary workflow infrastructure has been designed and developed using the expertise of radiologists, technicians, and PACS administrators.",
+        "title": "Contact Us - Ethosmed - PACS & Teleradiology solutions in Pakistan, USA and South America. ",
+        "meta_descr": "PACS & Teleradiology solutions in Pakistan, USA and South America. EthosMED’ revolutionary workflow infrastructure has been designed and developed using the expertise of radiologists, technicians, and PACS administrators.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
