@@ -1077,6 +1077,10 @@ section.lazy-placeholder:after {
     font-size: 40px !important;
   }
 }
+.cid-qCKC77WBQc .card-title,
+.cid-qCKC77WBQc .card-img {
+  text-align: center;
+}
 .cid-rl9EmhGxVT {
   padding-top: 15px;
   padding-bottom: 0px;
