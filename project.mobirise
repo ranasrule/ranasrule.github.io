@@ -35,13 +35,13 @@
     },
     "versionFirst": "4.5.2",
     "uniqCompNum": 47,
-    "versionPublish": "4.11.5",
+    "versionPublish": "4.12.3",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "robotsSwitcher": "on",
     "siteUrl": "http://ethosmed.com/",
     "sitemapSwitcherAuto": "on",
     "favicon": false,
-    "noImageResize": true,
+    "noImageResize": null,
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-110880416-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-110880416-1');\r\n</script>\r\n",
     "sitemapSwitcher": "on",
     "path": "@PROJECT_PATH@",
@@ -60,7 +60,8 @@
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "": "on",
-    "cookiesAlert": false
+    "cookiesAlert": false,
+    "imageResize": false
   },
   "pages": {
     "index.html": {
