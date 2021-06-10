@@ -1005,6 +1005,9 @@ section.lazy-placeholder:after {
 .cid-qCKAAxcHkv .dropdown-item:hover {
   color: #972424 !important;
 }
+.cid-rn6iC4ULb3 {
+  background-image: url("../../../assets/images/radiographs-spine-fingers.jpg");
+}
 .cid-rn6iC4ULb3 .mbr-figure {
   margin: 0 auto;
   width: 100%;
@@ -1405,6 +1408,62 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-srtFpJElbQ P {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-szUGPMwrNC {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #972424;
+}
+.cid-szUGPMwrNC h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-szUGPMwrNC p {
+  color: #767676;
+  text-align: left;
+}
+.cid-szUGPMwrNC .card-box {
+  padding-top: 2rem;
+}
+.cid-szUGPMwrNC .card-wrapper {
+  height: 100%;
+}
+.cid-szUGPMwrNC .card-title {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-szUGPMwrNC P {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-szUGR8BSjh {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #972424;
+}
+.cid-szUGR8BSjh h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-szUGR8BSjh p {
+  color: #767676;
+  text-align: left;
+}
+.cid-szUGR8BSjh .card-box {
+  padding-top: 2rem;
+}
+.cid-szUGR8BSjh .card-wrapper {
+  height: 100%;
+}
+.cid-szUGR8BSjh .card-title {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-szUGR8BSjh P {
   color: #ffffff;
   text-align: center;
 }
